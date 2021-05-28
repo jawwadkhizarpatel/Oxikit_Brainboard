@@ -1,0 +1,2 @@
+# Oxikit_Brainboard
+OXY-1 BRAINBOARD is an open-source comprehensive low cost oxygen concentrator motherboard design and developed by JP Labs India.  OXY-1 BRAINBOARD is compatible for 1 to 25 LPM concentrator, which produces 92% concentrated O2 just in a minute. OXY-1 BRAINBOARD is a preprogrammed motherboard comes with automated flow rate of the oxygen as per oxygen saturation level, it has onboard OLED monitor, sensors, indicators and solenoid valve cycle  operation controlling unit. 
