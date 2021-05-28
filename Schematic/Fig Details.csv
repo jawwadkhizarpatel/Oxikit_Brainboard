@@ -1,0 +1,21 @@
+Figures No.,Fig Name
+1,Controller circuit
+1.1,Power supply
+1.2,Amplifier
+1.3,Compressor Relay
+1.4,Valve Relay
+1.5,Valve Relay
+1.6,Valve Relay
+1.7,Emergency Digital Switch
+1.8,Test Digital Switch
+1.9,Cooling Fan connections
+2,Buzzer Connecntions
+2.1,Indicator LED
+2.2,3-Way Valve Connection
+2.3,2X 2-Way Valve Connection to make single 3-way valve
+2.4,2-Way Valve Connection
+2.5,Digital Indicator LED
+2.6,Arduino as ISP
+2.7,Peripherials
+2.8,OLED Connections I2C
+2.9,Cut off switch
